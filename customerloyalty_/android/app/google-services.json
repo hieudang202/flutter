@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144699982927",
+    "project_id": "fti-loyalty",
+    "storage_bucket": "fti-loyalty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144699982927:android:5ea95b82ec50e45932d63a",
+        "android_client_info": {
+          "package_name": "vn.fti.customerloyalty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144699982927-8vgiha0l7njnr9f67otfnst21ndoq02q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQeyoLSPzAGjIJ9dG7JggBh8SKYuBQHcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144699982927-8vgiha0l7njnr9f67otfnst21ndoq02q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
